@@ -20,3 +20,7 @@ Nota:Es solamente una SUGERENCIA del profe
 Mandamientos de los componentes
 1.Siempre nombrar los componentes con la coinvencion de nomenclatura PascalCase
 2.El componente preferiblemente que se llame igual tal cual el archivo
+
+Partes de un componente:
+1.Nombre de la funcion
+2.
