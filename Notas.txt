@@ -1,0 +1,10 @@
+pasos para crear un proyecto de React
+
+1.Abrir una terminal cmd 
+2.npm creat vite@latest
+3.ponerle nombre
+4.seleccionar el framework react
+5.seleccionar variacion del lenguaje :javaScript+swc
+6.abrir el proyecto con el editor
+7.abrir terminal en el editor
+8.npm i o npm install
