@@ -9,3 +9,14 @@ pasos para crear un proyecto de React
 7.abrir terminal en el editor
 8.npm i o npm install
 9.npm run dev" para levantar el servidor
+
+EMPEZAR CON UN PROYECTO DE REACT (Limpieza de codigo)
+1.Borrar el archivo app.jsx
+2.Borrar el archivo app.css
+3.Borrar el contenido de index.css Ctrl + a y borrar
+4.Borrar tode referencia de App.jsx en main.jsx
+Nota:Es solamente una SUGERENCIA del profe
+
+Mandamientos de los componentes
+1.Siempre nombrar los componentes con la coinvencion de nomenclatura PascalCase
+2.El componente preferiblemente que se llame igual tal cual el archivo
