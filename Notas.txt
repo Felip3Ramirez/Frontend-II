@@ -8,3 +8,4 @@ pasos para crear un proyecto de React
 6.abrir el proyecto con el editor
 7.abrir terminal en el editor
 8.npm i o npm install
+9.npm run dev" para levantar el servidor
