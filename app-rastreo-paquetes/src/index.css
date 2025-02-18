@@ -23,11 +23,20 @@ a:hover {
 }
 
 body {
+  justify-content: center;
+  align-items: center;
   margin: 0;
   display: flex;
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+}
+form{
+  height: 70%;
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+
 }
 
 h1 {
@@ -42,12 +51,12 @@ button {
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #1a1a1a;
+  background-color: #1ba0d4;
   cursor: pointer;
   transition: border-color 0.25s;
 }
 button:hover {
-  border-color: #646cff;
+  border-color: #ff6464;
 }
 button:focus,
 button:focus-visible {
