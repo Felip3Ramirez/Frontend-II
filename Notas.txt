@@ -20,6 +20,11 @@ Nota:Es solamente una SUGERENCIA del profe
 Mandamientos de los componentes
 1.Siempre nombrar los componentes con la coinvencion de nomenclatura PascalCase
 2.El componente preferiblemente que se llame igual tal cual el archivo
+3.Un componente siempre tendra una funcion flecha o regular
+4.Un componente siempre tendra un retorno y ese retorno (HTML)
+5.Un componente siempre tendra una exportacion
+
+19 de marzo primer examen de front II
 
 Partes de un componente:
 1.Nombre de la funcion
