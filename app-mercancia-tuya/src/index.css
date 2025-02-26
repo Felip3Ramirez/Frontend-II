@@ -60,17 +60,19 @@
   display: flex;
   justify-content: space-evenly;
   align-items: center;
+  flex-wrap: wrap;
   
 }
 
 .panel-control-card{
   width: 30%;
-  height: 350px;
+  height:  280px;
   /* border: solid 1px black; */
   display: flex;
   justify-content: space-between;
   align-items: center;
   flex-direction: column;
+  
 }
 .panel-control-card div:first-child{
   height: 70%;

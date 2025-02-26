@@ -1,4 +1,5 @@
 import imgUser from './assets/user.png';
+import Card from './Card';
 
 const PanelControl = () => {
     
@@ -16,18 +17,9 @@ const PanelControl = () => {
             </nav>
         </aside>
         <div className="panel-control-contenido">
-            <section className="panel-control-card">
-                <div></div>
-                <div>Ver</div>
-            </section>
-            <section className="panel-control-card">
-                <div></div>
-                <div>Ver</div>
-            </section>
-            <section className="panel-control-card">
-                <div></div>
-                <div>Ver</div>
-            </section>
+            <Card></Card>
+            <Card></Card>
+            <Card></Card>
         </div>
     </section>
  )   
