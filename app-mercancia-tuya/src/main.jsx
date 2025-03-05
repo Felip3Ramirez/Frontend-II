@@ -9,7 +9,7 @@ import PanelEnvios from './PanelEnvios'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <PanelControl></PanelControl>
-    <PanelClientes></PanelClientes>
-    <PanelEnvios></PanelEnvios>
+    {/* <PanelClientes></PanelClientes> */}
+    {/* <PanelEnvios></PanelEnvios> */}
   </StrictMode>,
 )
