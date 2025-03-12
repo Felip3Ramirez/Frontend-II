@@ -7,7 +7,9 @@ Services: Almacena todo lo relacionado con la base de datos o la api
 1. Modelar o representar el modelo de datos (NoSQL :JSON)
 instalación de dependencias:json-server,sweetalert2, axios, react-router-dom.
 
-json-server:dependencia para simular una API (Fake api)
-sweetalwert:dependencia para manejar alertas o ventanas UI
-axios:dependencia para manejar petición http
-react-router-dom:dependencia para manejar la comunicación de las vistas principales
+json-server:dependencia para simular una API (Fake api):npm i json-server
+sweetalert2:dependencia para manejar alertas o ventanas UI:npm i sweetalert2
+axios:dependencia para manejar petición http:npm i axios
+react-router-dom:dependencia para manejar la comunicación de las vistas principales:npm i react-router-dom
+
+https://uiverse.io/
