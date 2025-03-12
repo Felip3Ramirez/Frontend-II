@@ -11,5 +11,8 @@ json-server:dependencia para simular una API (Fake api):npm i json-server
 sweetalert2:dependencia para manejar alertas o ventanas UI:npm i sweetalert2
 axios:dependencia para manejar petición http:npm i axios
 react-router-dom:dependencia para manejar la comunicación de las vistas principales:npm i react-router-dom
+createBrowserRouter
+RoutwrProvider 
+Link
 
 https://uiverse.io/

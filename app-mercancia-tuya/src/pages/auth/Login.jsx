@@ -1,5 +1,5 @@
 import "./Login.css";
-function Login() {
+export default function Login() {
   return (
     <form class="modern-form">
       <div class="form-title">Sign Up</div>
