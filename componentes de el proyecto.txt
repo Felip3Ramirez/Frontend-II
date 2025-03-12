@@ -16,3 +16,8 @@ RoutwrProvider
 Link
 
 https://uiverse.io/
+
+Practicar de react:
+useEffect
+useState
+useContext
