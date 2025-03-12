@@ -1,7 +1,8 @@
 import "./Login.css";
 export default function Login() {
   return (
-    <form class="modern-form">
+    <div className="formulario">
+        <form class="modern-form">
       <div class="form-title">Sign Up</div>
 
       <div class="form-body">
@@ -95,5 +96,6 @@ export default function Login() {
         </a>
       </div>
     </form>
+    </div>
   );
 }

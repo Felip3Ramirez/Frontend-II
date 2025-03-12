@@ -6,7 +6,7 @@ import {createBrowserRouter, RouterProvider} from 'react-router-dom'
 import Login from './pages/auth/Login'
 let router = createBrowserRouter([
   {
-    path:"/login",
+    path:"/",
     element:<Login></Login>
   },
   {
@@ -17,7 +17,7 @@ let router = createBrowserRouter([
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <RouterProvider></RouterProvider>
+    <RouterProvider router={router}></RouterProvider>
     {/* <PanelControl></PanelControl> */}
     {/* <PanelClientes></PanelClientes> */}
     {/* <PanelEnvios></PanelEnvios> */}
