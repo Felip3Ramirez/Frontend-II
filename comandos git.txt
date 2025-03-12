@@ -1,0 +1,15 @@
+Crear un repo
+git init
+git add .
+git commit -m ""
+git remote add origin url
+git push -u origin master
+
+Clonar un repo
+git clone url
+
+Trabajar actualizaciones - ramas
+git checkout -b rama(actualización)
+git add .
+git commit -m ""
+git push origin rama
