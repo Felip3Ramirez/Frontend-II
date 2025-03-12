@@ -1,5 +1,4 @@
 import imgUser from './assets/user.png';
-import Card from './Card';
 import CardClientes from './CardClientes';
 
 const PanelClientes = () => {

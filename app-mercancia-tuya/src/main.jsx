@@ -1,9 +1,7 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
-import PanelControl from './PanelControl'
-import PanelClientes from './PanelClientes'
-import PanelEnvios from './PanelEnvios'
+import PanelControl from './pages/PanelControl'
 
 
 createRoot(document.getElementById('root')).render(
