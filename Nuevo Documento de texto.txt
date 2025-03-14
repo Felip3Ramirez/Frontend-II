@@ -1,6 +1,0 @@
-Components: Almacena todo componente general no depende de una vista
-Helpers: Almacena funciones de JavaScript de uso general(no depende de una vista o logica)
-Pages: Almacena las vistas dependientes con contenido propio (no reutilizable)
-Routes: Almacena el enrutamiento de la navegación entre las paginas principales (pages)
-Services: Almacena todo lo relacionado con la base de datos o la api
-
