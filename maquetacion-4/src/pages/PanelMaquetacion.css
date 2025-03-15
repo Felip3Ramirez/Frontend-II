@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contenedorPrincipal{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tarjetaContenedoraDerecha,.tarjetaContenedoraIzquierda{
+    background-color: #a3b8ff;
+    display: flex;
+    justify-content: center;
+    margin: 2%;
+    padding: 1%;
+    width: 50%;
+    height: 90vh;
+    border: solid 2px rgb(153, 124, 124);
+    flex-wrap: wrap;
+}
+.cardAmarilla{
+background-color: #ffa931;
+margin: 1%;
+width: 35%;
+height: 30%;
+display: flex;
+border: 1px solid black;
+
+}
+.cardRosa{
+background-color: #e57373;
+margin: 1%;
+width: 55%;
+height: 30%;
+display: flex;
+border: 1px solid black;
+}
