@@ -11,15 +11,28 @@ json-server:dependencia para simular una API (Fake api):npm i json-server
 sweetalert2:dependencia para manejar alertas o ventanas UI:npm i sweetalert2
 axios:dependencia para manejar petición http:npm i axios
 react-router-dom:dependencia para manejar la comunicación de las vistas principales:npm i react-router-dom
-createBrowserRouter
-RoutwrProvider 
-Link
+createBrowserRouter :Crear rutas de navegacion
+RouterProvider : Alimentar la aplicacion con las rutas
+Link :Enlace de redireccion
+
+components:esta carpeta agrupa los componentes que se reutilizan
+pages:esta carpeta agrupa los componentes que no se reutilizan
+
 
 https://uiverse.io/
 
 Practicar de react:
+los Hooks:
+
 useEffect
 useState
 useContext
+Definir un estado->Un arreglo de 1 posicion asignado a la invocacion de la funcion useState 
+la posicion 0-> variable que almacena el estado
+la possicion 1-> funcion que cambiar el estado
+
+
+
+
 
 Maquetación #4

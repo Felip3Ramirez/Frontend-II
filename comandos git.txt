@@ -13,3 +13,6 @@ git checkout -b rama(actualización)
 git add .
 git commit -m ""
 git push origin rama
+
+limpiar credenciales
+git config --global credential.helper ""
